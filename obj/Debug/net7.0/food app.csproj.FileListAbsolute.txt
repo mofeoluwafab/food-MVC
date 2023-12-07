@@ -1,0 +1,64 @@
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\food app.csproj.AssemblyReference.cache
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\food app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\food app.AssemblyInfoInputs.cache
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\food app.AssemblyInfo.cs
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\food app.csproj.CoreCompileInputs.cache
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\food app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\food app.RazorAssemblyInfo.cache
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\food app.RazorAssemblyInfo.cs
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\appsettings.json
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\food app.staticwebassets.runtime.json
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\food app.exe
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\food app.deps.json
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\food app.runtimeconfig.json
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\food app.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\food app.pdb
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\comerr64.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\gssapi64.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\k5sprt64.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\krb5_64.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\krbcc64.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mofeoluwa\Desktop\food app\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\staticwebassets\msbuild.food app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\staticwebassets\msbuild.build.food app.props
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.food app.props
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.food app.props
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\scopedcss\bundle\food app.styles.css
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\scopedcss\projectbundle\food app.bundle.scp.css
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\food app.csproj.CopyComplete
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\food app.dll
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\refint\food app.dll
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\food app.pdb
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\food app.genruntimeconfig.cache
+C:\Users\Mofeoluwa\Desktop\food app\obj\Debug\net7.0\ref\food app.dll
